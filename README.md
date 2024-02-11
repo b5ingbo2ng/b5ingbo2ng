@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm KIM BOYOUNG</h1>
 <h3 align="left">A passionate Data Analyst & Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b5ingbo2ng&label=Profile%20views&color=0e75b6&style=flat" alt="b5ingbo2ng" /> </p>
 
 - 🔭 I’m currently working on **Digital Hanaro 3rd**
 
