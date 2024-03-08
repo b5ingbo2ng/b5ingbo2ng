@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Data Analyst & Data Scientist</h3>
 
 
-- 🔭 I’m currently working on **Digital Hanaro 3rd**
+- 🔭 I’m currently participating in **Digital Hanaro 3rd**
 
 - 🌱 I’m currently learning **Machine learning, Pipeline**
 
